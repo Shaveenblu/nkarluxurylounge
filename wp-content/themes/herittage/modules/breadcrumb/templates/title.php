@@ -1,0 +1,2 @@
+<?php
+echo apply_filters( 'herittage_breadcrumb_get_template_part', herittage_get_template_part( 'breadcrumb', 'templates/title-content', '',herittage_breadcrumb_params() ), herittage_get_page_id() ); ?>
